@@ -1,0 +1,48 @@
+ 
+.page{
+    text-align: center;
+    
+
+}
+
+.List{
+    margin: auto;
+    margin-top: 1%;
+    width: 300px;
+    border: 1px solid rgb(240, 240, 240);
+    box-shadow: 5px 0px 30px -15px;
+    border-radius: 20px;
+    min-height: 300px;
+    z-index: 10px;
+    
+ 
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  .products{
+    width: 60%;
+    margin: auto;
+    margin-top:50px;
+  }
+
+  .home{
+  
+    text-align: end;
+    margin-right: 10%;
+    cursor: pointer;
+    
+  }
